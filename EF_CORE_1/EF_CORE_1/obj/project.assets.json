@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/Users/mostafaalashry397gmail.com/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/mostafaalashry397gmail.com/Documents/C#/EF_CORE_1/EF_CORE_1/EF_CORE_1/EF_CORE_1.csproj",
+      "projectName": "EF_CORE_1",
+      "projectPath": "/Users/mostafaalashry397gmail.com/Documents/C#/EF_CORE_1/EF_CORE_1/EF_CORE_1/EF_CORE_1.csproj",
+      "packagesPath": "/Users/mostafaalashry397gmail.com/.nuget/packages/",
+      "outputPath": "/Users/mostafaalashry397gmail.com/Documents/C#/EF_CORE_1/EF_CORE_1/EF_CORE_1/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/mostafaalashry397gmail.com/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
